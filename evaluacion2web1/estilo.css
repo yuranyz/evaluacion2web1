@@ -1,0 +1,36 @@
+main{
+    margin: 10px;
+}
+.mainCrud{
+    margin:0;
+}
+h1{
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+}
+.lab1{
+    text-align: right;
+}
+
+
+
+.tituloCrud{
+    font-weight:bolder;
+}
+.subCrud{
+    font-weight: bold;
+}
+.div2Crud{
+    background-color: rgb(53, 58, 64);
+    color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+    float: left;
+    width: 30%;
+}
+.div1Crud:after{
+    content: "";
+    display: table;
+    clear: both;
+}
